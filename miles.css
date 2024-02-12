@@ -1,0 +1,21 @@
+.miles {
+    height: 650px;
+    background-image: url("images/marvels-spider-man-miles-morales-listing-thumb-01-ps4-ps5-en-02oct20.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #000015;
+  }
+  /*overlay ofg main background image*/
+  .miles-description {
+    height: 650px;
+    background-color: rgba(0, 0, 21, 0.7);
+    display: flex;
+  }
+  
+  .miles-text {
+    width: 70% !important;
+    margin: auto !important;
+    display: flex;
+    flex-wrap: wrap;
+  }
